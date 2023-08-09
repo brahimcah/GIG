@@ -7,13 +7,13 @@ GIG (Gestor de Internacionales de Geiser) es una herramienta de aplicación para
 ## Características Clave
 
 - Conversión Rápida: GIG ha demostrado una alta eficiencia en las pruebas, procesando hasta 100 archivos ZIP en tan solo 10 segundos en equipos con procesadores Intel Core i5 y 12-16GB de RAM.
-- Extracción Precisa: La herramienta extrae cuidadosamente los datos necesarios de los archivos ZIP de Geiser y los organiza en un formato CSV fácilmente manejable.
+- Extracción Precisa: La herramienta extrae cuidadosamente los datos necesarios de los archivos PDF de Geiser y los organiza en un formato CSV fácilmente manejable.
 - Interfaz Intuitiva: GIG presenta una interfaz de usuario intuitiva y amigable, lo que facilita su uso tanto para usuarios novatos como experimentados.
 - Mejora la Gestión: Al automatizar el proceso de conversión y extracción, GIG permite a los usuarios centrarse en la gestión del sistema SITEX y otros aspectos importantes de sus trámites internacionales.
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](path/to/screenshot1.png)
+![Captura de Pantalla 1](assets/screenshot1.png)
 *Figura 1: Interfaz principal de GIG*
 
 ## Instalación y Uso
@@ -27,24 +27,15 @@ GIG (Gestor de Internacionales de Geiser) es una herramienta de aplicación para
 
 ## Requisitos del Sistema
 
-- Sistema Operativo: Windows (versiones compatibles: Windows 7 y posteriores)
+- Sistema Operativo: Windows (versiones compatibles: Windows 10 y posteriores)
 - Procesador: Intel Core i5 o equivalente (se recomienda para un rendimiento óptimo)
 - RAM: 12GB o superior
 - Espacio en Disco: 100MB de espacio libre
 
-## Contribuciones
-
-¡Agradecemos las contribuciones a GIG! Si deseas colaborar, por favor sigue estos pasos:
-
-1. Haz un "fork" de este repositorio.
-2. Crea una rama para tu función o mejora: `git checkout -b nueva-funcionalidad`
-3. Realiza los cambios y commit: `git commit -m 'Añadida una nueva funcionalidad'`
-4. Haz un push a la rama: `git push origin nueva-funcionalidad`
-5. Envía una solicitud pull con tus cambios.
 
 ## Licencia
 
-Este proyecto está bajo la Licencia XYZ. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está bajo la Licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ---
 Para más detalles y preguntas, contáctanos en [correo@example.com](mailto:correo@example.com).
