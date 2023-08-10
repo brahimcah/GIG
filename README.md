@@ -17,19 +17,20 @@ GIG (Gestor de Internacionales de Geiser) es una herramienta de aplicación para
 
 ## Instalación y Uso
 
-1. Descarga el archivo de instalación desde la sección "Releases" de este repositorio.
-2. Ejecuta el archivo de instalación y sigue las instrucciones en pantalla para completar la instalación.
-3. Abre GIG desde el menú de inicio o el escritorio.
-4. Selecciona la ubicación de los archivos ZIP de Geiser que deseas convertir.
-5. Haz clic en el botón "Convertir" para iniciar el proceso de conversión y extracción.
-6. Encuentra los archivos CSV resultantes en la ubicación especificada.
+1. Descarga el archivo de instalación [DESCARGAR](LICENSE) y descomprimelo .
+2. Ejecuta en el CMD los siguiente comandos " mkdir c:\Geiser\INTER && mkdir c:\Geiser\ZIP "
+3. Ejecuta el archivo GIG.exe y sigue las instrucciones en pantalla para completar la instalación.
+4. 
+5. Selecciona la ubicación de los archivos ZIP de Geiser que deseas convertir.
+6. Haz clic en el botón "Convertir" para iniciar el proceso de conversión y extracción.
+7. Encuentra los archivos CSV resultantes en la ubicación especificada.
 
 ## Requisitos del Sistema
 
 - Sistema Operativo: Windows (versiones compatibles: Windows 10 y posteriores)
 - Procesador: Intel Core i5 o equivalente (se recomienda para un rendimiento óptimo)
-- RAM: 12GB o superior
-- Espacio en Disco: 100MB de espacio libre
+- RAM: 10GB o superior
+- Espacio en Disco: 1GB de espacio libre
 
 
 ## Licencia
