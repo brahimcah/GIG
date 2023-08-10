@@ -1,7 +1,5 @@
 # GIG (Gestor de Internacionales de Geiser)
 
-![GIG Logo](path/to/logo.png)
-
 GIG (Gestor de Internacionales de Geiser) es una herramienta de aplicación para Windows diseñada para facilitar el proceso de conversión de archivos ZIP de Geiser a formato CSV, extrayendo y organizando los datos relevantes necesarios para la realización de trámites en el sistema SITEX. Esta herramienta está destinada a agilizar y simplificar el trabajo de los usuarios que realizan trámites internacionales, permitiéndoles gestionar eficientemente el sistema SITEX.
 
 ## Características Clave
@@ -14,6 +12,7 @@ GIG (Gestor de Internacionales de Geiser) es una herramienta de aplicación para
 ## Capturas de Pantalla
 
 ![image](https://github.com/brahimcah/GIG/assets/8999609/6a3f020b-7616-4d95-aeda-2db3f6d14008)
+
 *Figura 1: Interfaz principal de GIG*
 
 ## Instalación y Uso
