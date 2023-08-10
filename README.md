@@ -13,7 +13,7 @@ GIG (Gestor de Internacionales de Geiser) es una herramienta de aplicación para
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](assets/screenshot1.png)
+![image](https://github.com/brahimcah/GIG/assets/8999609/6a3f020b-7616-4d95-aeda-2db3f6d14008)
 *Figura 1: Interfaz principal de GIG*
 
 ## Instalación y Uso
@@ -37,5 +37,3 @@ GIG (Gestor de Internacionales de Geiser) es una herramienta de aplicación para
 
 Este proyecto está bajo la Licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
----
-Para más detalles y preguntas, contáctanos en [correo@example.com](mailto:correo@example.com).
